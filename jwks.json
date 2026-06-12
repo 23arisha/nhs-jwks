@@ -1,12 +1,12 @@
 {
   "keys": [
     {
-    "kty": "RSA",
-    "e": "AQAB",
-    "use": "sig",
-    "kid": "nhs-testing",
-    "alg": "RS512",
-    "n": "8smkmiUCvvZcv1HKXzrzFcvWgk6cybKNM2iNEMSLgQMlyKcrMHTWlTAfAPeE_twLtW23hmmM9xHCMnVPGzZDyeHkSL9PisXtjpdkkouY_c2R9PDI6rcSUIORJyhjEI44F0i7VtmPet4ZmnXkU7-VE4b-Nj1Xlkc9HX1on4uQtiNs2mSgrkch-xZmETOi_ofLZnmLmHNLFhJ94QOxCmQkTpIS1aAanO0NU0j88eEJCW1xzfYepmk_HEUbPZ_-6Hhv91xVL0jZDJeKA3cF93R8R5HBO2DZ3-zUuZFz5BER_YkzQOwIZwtxUMaoJMzFHcP-TH4VdBqNaf2fzpNCl1YJsQ"
-}
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "nhs-testing",
+      "alg": "RS512",
+      "n": "8smkmiUCvvZcv1HKXzrzFcvWgk6cybKNM2iNEMSLgQMlyKcrMHTWlTAfAPeE_twLtW23hmmM9xHCMnVPGzZDyeHkSL9PisXtjpdkkouY_c2R9PDI6rcSUIORJyhjEI44F0i7VtmPet4ZmnXkU7-VE4b-Nj1Xlkc9HX1on4uQtiNs2mSgrkch-xZmETOi_ofLZnmLmHNLFhJ94QOxCmQkTpIS1aAanO0NU0j88eEJCW1xzfYepmk_HEUbPZ_-6Hhv91xVL0jZDJeKA3cF93R8R5HBO2DZ3-zUuZFz5BER_YkzQOwIZwtxUMaoJMzFHcP-TH4VdBqNaf2fzpNCl1YJsQ"
+    }
   ]
 }
